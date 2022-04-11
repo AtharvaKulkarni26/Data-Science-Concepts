@@ -21,7 +21,6 @@ Data science combines the scientific method, math and statistics, specialized pr
 13. Recommendation System
 14. Simple Linear Regression
 15. Support Vector Machines
-16. Text Mining 
 
 ### Technologies used 
-Python, Jupyter Notebook, Matplotlib, Seaborn, Pandas, Numpy, Scikit-Learn, Keras, Chi2:
+Python, Jupyter Notebook, Matplotlib, Seaborn, Pandas, Numpy, Scikit-Learn, Keras.
